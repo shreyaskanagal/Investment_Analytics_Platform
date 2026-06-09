@@ -2,7 +2,7 @@
 
 > An interactive, professional-grade ETF analytics dashboard covering **110+ ETFs** across **14 market sectors** — built with Python, Streamlit, and institutional quantitative finance models.
 
-🔗 **[Live Demo →]([https://investement-analytics-platform.streamlit.app/])** &nbsp;|&nbsp; 👤 **[LinkedIn](https://www.linkedin.com/in/shreyaskanagal)** &nbsp;|&nbsp; 💻 **[GitHub](https://github.com/shreyaskanagal)**
+🔗 **[Live Demo →](https://investement-analytics-platform.streamlit.app/)** &nbsp;|&nbsp; 👤 **[LinkedIn](https://www.linkedin.com/in/shreyaskanagal)** &nbsp;|&nbsp; 💻 **[GitHub](https://github.com/shreyaskanagal)**
 
 ---
 
